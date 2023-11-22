@@ -14,6 +14,32 @@ If Netflix has been increasingly focusing on TV rather than movies in recent yea
 
 Clustering similar content by matching text-based features
 
+The variable description of the Netflix Movies and TV Shows Clustering Dataset is as follows:
+
+show_id: Unique identifier for each movie/show.
+
+type: Indicates whether the entry is a movie or a TV show.
+
+title: Name of the movie or TV show.
+
+director: Name of the director(s) of the movie or TV show.
+
+cast: Names of the actors and actresses featured in the movie or TV show.
+
+country: Country or countries where the movie or TV show was produced.
+
+date_added: Date when the movie or TV show was added to Netflix.
+
+release_year: Year when the movie or TV show was released.
+
+rating: TV rating or movie rating of the movie or TV show.
+
+duration: Length of the movie or TV show in minutes or seasons.
+
+listed_in: Categories or genres of the movie or TV show.
+
+description: Brief synopsis or summary of the movie or TV show.
+
 # Project Summary
 
 Netflix movies and TV shows clustering is a data analysis and machine learning technique that Netflix uses to group its content into similar categories. This technique involves analyzing the various characteristics of each title, such as genre, cast, and plot, and using algorithms to identify patterns and similarities.
